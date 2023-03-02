@@ -26,8 +26,8 @@ Alle anderen benötigten Pakete werden zu Anfang der Skripte installiert.
 
 
 ### Linux / Unix
-Python sollte normalerweise bereits auf eurem System installiert sein, prüft dies mit dem Aufruf von `python3 --version` in eurer Kommandozeile
-Zusätzlich benötigt ihr noch das Paket python3.x-venv im ein virtuelles Environment zu erstellen, bitte recherchiert hier selbständig nach dem richtigen Paket für eure Distritution.
+Python sollte normalerweise bereits auf eurem System installiert sein, prüft dies mit dem Aufruf von `python3 --version` in eurer Kommandozeile.
+Zusätzlich benötigt ihr noch das Paket "python3.x-venv" im ein virtuelles Environment zu erstellen, bitte recherchiert hier selbständig nach dem richtigen Paket für eure Distritution.
 
 Öffnet die Bash und führt folgende Kommandos nacheinander aus:
 ```bash
