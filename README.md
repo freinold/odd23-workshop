@@ -16,7 +16,7 @@ Führt den Installer aus und geht sicher, dass ihr Python zu eurem Pfad hinzufü
 python -m venv jupyter-venv :: Im aktuellen Ordner wird ein Unterordner mit allen Dateien des virtuellen Environments erstellt, somit "müllt" ihr nicht eure System-Version von Python voll.
 jupyter-venv\Scripts\activate.bat :: venv aktivieren
 
-pip install -U pip wheel :: Zuerst sichergehen dass pip und wheel up to date ist
+pip install -U pip wheel :: Zuerst sichergehen, dass pip und wheel up to date sind
 pip install -U jupyterlab :: Anschließend Jupyter Lab installieren
 ```
 
@@ -34,7 +34,7 @@ Zusätzlich benötigt ihr noch das Paket "python3.x-venv" im ein virtuelles Envi
 python3 -m venv jupyter-venv # Im aktuellen Ordner wird ein Unterordner mit allen Dateien des virtuellen Environments erstellt, somit "müllt" ihr nicht eure System-Version von Python voll.
 source jupyter-venv/bin/activate # venv aktivieren
 
-pip install -U pip wheel # Zuerst sichergehen dass pip und wheel up to date ist
+pip install -U pip wheel # Zuerst sichergehen, dass wheel up to date ist
 pip install -U jupyterlab # Anschließend Jupyter Lab installieren
 ```
 
